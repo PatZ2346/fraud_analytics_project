@@ -120,7 +120,7 @@ This project is licensed under the MIT License.
 ## Contact
 Created by PatZ.
 
-Email: [patrick.zhou90@gmail.com](mailto:patrick.zhou90@gmail.com)
-GitHub: [@PatZ2346](https://github.com/PatZ2346)
+Email: [patrick.zhou90@gmail.com](mailto:patrick.zhou90@gmail.com)  
+GitHub: [@PatZ2346](https://github.com/PatZ2346)  
 
 For issues, feedback or collaborations please open an issue on GitHub.
