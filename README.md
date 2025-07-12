@@ -80,6 +80,7 @@ Data cleaning and transformation were performed through an ETL pipeline to handl
 ## Getting Started and How to Run
 
 1. **Clone this repository:**
+
 ```bash
 git clone https://github.com/PatZ2346/fraud_analytics_project.git
 cd fraud_analytics_project
