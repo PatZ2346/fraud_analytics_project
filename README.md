@@ -76,7 +76,6 @@ Data cleaning and transformation were performed through an ETL pipeline to handl
 
 ---
 
-```markdown
 ## Getting Started and How to Run
 
 1. **Clone this repository:**
