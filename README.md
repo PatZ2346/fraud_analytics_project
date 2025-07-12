@@ -45,6 +45,7 @@ The dataset contains records of insurance claims with features such as:
 Data cleaning and transformation were performed through an ETL pipeline to handle missing values, standardize data, and engineer fraud risk scores.
 
 ---
+
 ## Exploratory Data Analysis (EDA) Highlights
 
 - The dataset exhibits class imbalance with fewer fraudulent claims than non-fraudulent.
@@ -72,7 +73,6 @@ Data cleaning and transformation were performed through an ETL pipeline to handl
 - Model Training using algorithms suited for imbalanced classification.
 - Model Evaluation using metrics focused on fraud detection such as precision, recall, F1-score, and ROC-AUC.
 - Deploying a fraud scoring system to assist operational fraud detection.
-
 
 ---
 
@@ -124,3 +124,5 @@ Email: [patrick.zhou90@gmail.com](mailto:patrick.zhou90@gmail.com)
 GitHub: [@PatZ2346](https://github.com/PatZ2346)  
 
 For issues, feedback or collaborations please open an issue on GitHub.
+
+---
