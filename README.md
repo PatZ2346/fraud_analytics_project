@@ -83,6 +83,7 @@ Data cleaning and transformation were performed through an ETL pipeline to handl
 ```bash
 git clone https://github.com/PatZ2346/fraud_analytics_project.git
 cd fraud_analytics_project
+```
 
 2. **Install dependencies:**
 - Make sure you have Python 3.8+ installed. Install required packages using provided requirements.txt: pip install -r requirements.txt
