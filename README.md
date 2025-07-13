@@ -177,13 +177,13 @@ For issues, feedback or collaborations please open an issue on GitHub.
 
 ### Stack Overflow Q&A (Code Fixes)
 
-- **ObjectNotExecutableError: raw SQL strings need wrapping in `text()`**  
+- ObjectNotExecutableError: raw SQL strings need wrapping in `text()`  
   Explains why you must wrap SQL queries like `DROP VIEW ...` with `sqlalchemy.text()` to avoid errors when using SQLAlchemy 2.x  
-  🔗 https://stackoverflow.com/questions/69490450/objectnotexecutableerror-when-executing-any-sql-query-using-asyncengine
+  https://stackoverflow.com/questions/69490450/objectnotexecutableerror-when-executing-any-sql-query-using-asyncengine
 
-- **Fix for `AttributeError: 'str' object has no attribute '_execute_on_connection'`**  
+- Fix for `AttributeError: 'str' object has no attribute '_execute_on_connection'`  
   Shows the same issue with raw SQL strings not being executable without `text()`—the solution you applied in your notebook  
-  🔗 https://stackoverflow.com/questions/75464271/attributeerror-str-object-has-no-attribute-execute-on-connection
+  https://stackoverflow.com/questions/75464271/attributeerror-str-object-has-no-attribute-execute-on-connection
 
 
 ### Summary Table
