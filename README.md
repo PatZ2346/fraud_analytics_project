@@ -135,7 +135,7 @@ For issues, feedback or collaborations please open an issue on GitHub.
 
 ---
 
-## Resources & Links
+## Resources, References & Links
 
 ### Fraud Detection Models & Feature Engineering
 
