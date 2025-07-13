@@ -134,3 +134,61 @@ GitHub: [@PatZ2346](https://github.com/PatZ2346)
 For issues, feedback or collaborations please open an issue on GitHub.
 
 ---
+
+## Resources & Links
+
+### Fraud Detection Models & Feature Engineering
+
+- [GitHub – Insurance Fraud Detection using Decision Trees & Random Forest](https://github.com/kalpesh0987/Insurance_Fraud_Detection_Using_Decision_Trees_and_Random_Forests)  
+  Covers end-to-end preprocessing, modeling, and evaluation.
+
+- [Trenton McKinney – Fraud Detection in Python](https://trenton3983.github.io/posts/fraud-detection-python/)  
+  Explores imbalanced fraud datasets, model evaluation, and best practices.
+
+- [GitHub – End-to-End Insurance Fraud Detection with XGBoost & Random Forest](https://github.com/annchirackal/Insurance-Fraud-Detection---End-to-End-Project)  
+  Includes hyperparameter tuning and model comparison.
+
+---
+
+### Tableau Dashboards for Insurance Analytics
+
+- [Quantize Analytics – 7 Tableau Dashboards for Insurance](https://www.quantizeanalytics.co.uk/tableau-insurance-dashboards-examples/)  
+  Real-world dashboard examples for claims and fraud analytics.
+
+- [phData – Insurance Claims Tableau Dashboard Example](https://www.phdata.io/blog/insurance-claims-tableau-dashboard-example/)  
+  Executive summary with KPIs and risk breakdown.
+
+- [GitHub – Visualizing Insurance Claims with Tableau](https://github.com/swapnilshinde39/insurance-dashboard)  
+  Includes Tableau workbook, datasets, and visualizations.
+
+---
+
+### Tableau Dashboard Tutorials & Videos
+
+- [YouTube – Insurance Fraud Dashboard in Tableau (Tutorial)](https://www.youtube.com/watch?v=dT_WtkxvV_k)  
+  Step-by-step dashboard creation demo.
+
+- [Tableau – Insurance Industry Solutions](https://www.tableau.com/solutions/industries/financial-services/insurance)  
+  Industry-specific dashboards and use cases from Tableau.
+
+---
+
+### Anomaly Detection & Model Theory
+
+- [ArXiv – A Random Forest Guided Tour (PDF)](https://arxiv.org/abs/1511.05741)  
+  Theoretical foundations and best practices.
+
+- [Kaggle – Autoencoder + Random Forest for Fraud Detection](https://www.kaggle.com/code/caiooquinamo/fraud-detection-using-ae-random-forest)  
+  Example of combining anomaly detection with supervised learning.
+
+---
+
+### Summary Table
+
+| Topic              | Resource Link                                                                                      | What It Offers                                 |
+|--------------------|----------------------------------------------------------------------------------------------------|------------------------------------------------|
+| Fraud Modeling     | [Kalpesh GitHub Repo](https://github.com/kalpesh0987/Insurance_Fraud_Detection_Using_Decision_Trees_and_Random_Forests) | Code examples for model building              |
+| Class Imbalance    | [Trenton McKinney Blog](https://trenton3983.github.io/posts/fraud-detection-python/)              | Resampling, metrics, and data handling        |
+| Dashboard Design   | [Quantize](https://www.quantizeanalytics.co.uk/tableau-insurance-dashboards-examples/)             | Insurance dashboard inspiration               |
+| Advanced Models    | [ArXiv + Kaggle](https://www.kaggle.com/code/caiooquinamo/fraud-detection-using-ae-random-forest)  | Anomaly detection and hybrid ML approaches    |
+| Tableau Use Cases  | [Tableau Insurance Solutions](https://www.tableau.com/solutions/industries/financial-services/insurance) | Best practice and dashboard templates         |
