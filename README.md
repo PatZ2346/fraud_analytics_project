@@ -148,8 +148,6 @@ For issues, feedback or collaborations please open an issue on GitHub.
 - [GitHub – End-to-End Insurance Fraud Detection with XGBoost & Random Forest](https://github.com/annchirackal/Insurance-Fraud-Detection---End-to-End-Project)  
   Includes hyperparameter tuning and model comparison.
 
----
-
 ### Tableau Dashboards for Insurance Analytics
 
 - [Quantize Analytics – 7 Tableau Dashboards for Insurance](https://www.quantizeanalytics.co.uk/tableau-insurance-dashboards-examples/)  
@@ -158,10 +156,8 @@ For issues, feedback or collaborations please open an issue on GitHub.
 - [phData – Insurance Claims Tableau Dashboard Example](https://www.phdata.io/blog/insurance-claims-tableau-dashboard-example/)  
   Executive summary with KPIs and risk breakdown.
 
-- [GitHub – Visualizing Insurance Claims with Tableau](https://github.com/swapnilshinde39/insurance-dashboard)  
-  Includes Tableau workbook, datasets, and visualizations.
-
----
+- [GitHub – Visualizing Insurance Claims using Tableau by Pradeep Pal](https://github.com/prxdp/Visualizing-Insurance-Claims-using-Tableau)  
+  Interactive dashboard and storytelling built on Tableau Public.
 
 ### Tableau Dashboard Tutorials & Videos
 
@@ -171,8 +167,6 @@ For issues, feedback or collaborations please open an issue on GitHub.
 - [Tableau – Insurance Industry Solutions](https://www.tableau.com/solutions/industries/financial-services/insurance)  
   Industry-specific dashboards and use cases from Tableau.
 
----
-
 ### Anomaly Detection & Model Theory
 
 - [ArXiv – A Random Forest Guided Tour (PDF)](https://arxiv.org/abs/1511.05741)  
@@ -181,7 +175,16 @@ For issues, feedback or collaborations please open an issue on GitHub.
 - [Kaggle – Autoencoder + Random Forest for Fraud Detection](https://www.kaggle.com/code/caiooquinamo/fraud-detection-using-ae-random-forest)  
   Example of combining anomaly detection with supervised learning.
 
----
+### Stack Overflow Q&A (Code Fixes)
+
+- **ObjectNotExecutableError: raw SQL strings need wrapping in `text()`**  
+  Explains why you must wrap SQL queries like `DROP VIEW ...` with `sqlalchemy.text()` to avoid errors when using SQLAlchemy 2.x  
+  🔗 https://stackoverflow.com/questions/69490450/objectnotexecutableerror-when-executing-any-sql-query-using-asyncengine
+
+- **Fix for `AttributeError: 'str' object has no attribute '_execute_on_connection'`**  
+  Shows the same issue with raw SQL strings not being executable without `text()`—the solution you applied in your notebook  
+  🔗 https://stackoverflow.com/questions/75464271/attributeerror-str-object-has-no-attribute-execute-on-connection
+
 
 ### Summary Table
 
