@@ -68,9 +68,9 @@ Data cleaning and transformation were performed through an ETL pipeline to handl
 
 ## Dashboard Preview
 
-![Fraud Risk Dashboard](Tableau_Dashboard_Examples/Dashboard_Example.png)
+[Fraud Risk Dashboard](Tableau_Dashboard_Examples/Dashboard_Example.png)
 
-This dashboard identifies high-risk claims using collision type, fraud weight, and time-based patterns.
+This example dashboard identifies fraud % per state, claim amount vs. gender, the risk score per state and fraud rate by collision (collision type - rear).
 
 ---
 
